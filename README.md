@@ -1,6 +1,6 @@
 # Hey, I’m Gaby 👋
 
-### AI Automation Builder · Product & Growth Systems · Marketing Technology
+### AI Builder · Product & Growth Systems · Marketing Technology
 
 I build AI-powered systems that connect marketing, data, operations, and product.
 
